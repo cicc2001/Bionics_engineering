@@ -1,4 +1,9 @@
 # Statistical Signal Processing
+
+## Scheduling Changes
+* No class on Thursday, 24-Oct-2014 and Friday, 25-Oct-2024.  
+  * Instead, we will have three hour classes on Thursday until the end of the course.
+
 ### Professor
 [Fulvio Gini](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=3836) - fulvio.gini@unipi.it
 
